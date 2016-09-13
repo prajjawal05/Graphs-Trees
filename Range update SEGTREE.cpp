@@ -4,7 +4,7 @@
     
     take y at all place instead of input      //Tripathihelp
     
-    a[node] ==1
+    a[node] ==1 return
     
 scanf() <-- cin */   
     
